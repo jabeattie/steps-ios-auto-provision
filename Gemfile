@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'fastlane'
 gem 'openssl'
 gem 'plist'
-gem 'xcodeproj'
+gem 'xcodeproj', '1.18.0'
 
 group :test do
   gem 'rspec'
